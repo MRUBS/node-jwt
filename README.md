@@ -1,2 +1,1 @@
-# node-jwt
-A Node.js API Authentication With JWT
+# A Node.js API Authentication With JWT
